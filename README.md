@@ -12,12 +12,11 @@
 
 2. Navigate to the project directory:
 
-	 ```sh
-	cd back
-        ```
-
-
-3. Run manage.py in your Python IDEs(for example PyCharm)
+    ```sh
+      cd back
+    ```
+	
+3. Run manage.py in your Python IDEs (for example PyCharm)
 
 ## use documentations
 
