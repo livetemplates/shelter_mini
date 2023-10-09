@@ -1,6 +1,6 @@
 # shelter_mini
 
- The application is implemented using JavaScript, HTML, CSS, Python
+ Minimalistic application is implemented using JavaScript, HTML, CSS, Python
  ## begin
  Start [bot](https://t.me/AvgAppBot)
  
@@ -18,8 +18,13 @@
 	
 3. Run manage.py in your Python IDEs (for example PyCharm)
 
-## use documentations
+## use documentation
 
 [Telegram Mini Apps Official Documentation](https://core.telegram.org/bots/webapps)
+
 [Payment Providers](https://core.telegram.org/bots/payments#supported-payment-providers)
+
+## hosting
+[Pythonanywhere](http://www.pythonanywhere.com/) and Bash-console for free bot hosting
+
  
