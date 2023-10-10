@@ -13,3 +13,8 @@ tg.MainButton.color = '#57aade';
       tg.sendData("buy"); 
       
    });
+   
+   Telegram.WebApp.onEvent('backButtonClicked', function(){
+      tg.close(); 
+      
+   });
