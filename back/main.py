@@ -46,7 +46,7 @@ def command_pay(web_app_message):
     bot.send_invoice(
         chat_id=web_app_message.chat.id,
         title='Donate',
-        description='Donate to the shelter',
+        description='Donate to the shelter 🐶',
         invoice_payload='g',
         provider_token=provider_token,
         currency='usd',
